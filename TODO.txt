@@ -1,0 +1,4 @@
+TODO List :
+
+- Merkle Tree Implementation using OPENCL : 
+http://developer.amd.com/community/blog/2015/05/29/merkle-tree-hashing-using-opencl-2-0/
